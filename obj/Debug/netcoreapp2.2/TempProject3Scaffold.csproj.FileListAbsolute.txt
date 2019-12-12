@@ -1,0 +1,14 @@
+D:\ITG\DB\API\TempProject3Scaffold\bin\Debug\netcoreapp2.2\TempProject3Scaffold.deps.json
+D:\ITG\DB\API\TempProject3Scaffold\bin\Debug\netcoreapp2.2\TempProject3Scaffold.runtimeconfig.json
+D:\ITG\DB\API\TempProject3Scaffold\bin\Debug\netcoreapp2.2\TempProject3Scaffold.runtimeconfig.dev.json
+D:\ITG\DB\API\TempProject3Scaffold\bin\Debug\netcoreapp2.2\TempProject3Scaffold.dll
+D:\ITG\DB\API\TempProject3Scaffold\bin\Debug\netcoreapp2.2\TempProject3Scaffold.pdb
+D:\ITG\DB\API\TempProject3Scaffold\obj\Debug\netcoreapp2.2\TempProject3Scaffold.csprojAssemblyReference.cache
+D:\ITG\DB\API\TempProject3Scaffold\obj\Debug\netcoreapp2.2\TempProject3Scaffold.csproj.CoreCompileInputs.cache
+D:\ITG\DB\API\TempProject3Scaffold\obj\Debug\netcoreapp2.2\TempProject3Scaffold.RazorAssemblyInfo.cache
+D:\ITG\DB\API\TempProject3Scaffold\obj\Debug\netcoreapp2.2\TempProject3Scaffold.RazorAssemblyInfo.cs
+D:\ITG\DB\API\TempProject3Scaffold\obj\Debug\netcoreapp2.2\TempProject3Scaffold.AssemblyInfoInputs.cache
+D:\ITG\DB\API\TempProject3Scaffold\obj\Debug\netcoreapp2.2\TempProject3Scaffold.AssemblyInfo.cs
+D:\ITG\DB\API\TempProject3Scaffold\obj\Debug\netcoreapp2.2\TempProject3Scaffold.RazorTargetAssemblyInfo.cache
+D:\ITG\DB\API\TempProject3Scaffold\obj\Debug\netcoreapp2.2\TempProject3Scaffold.dll
+D:\ITG\DB\API\TempProject3Scaffold\obj\Debug\netcoreapp2.2\TempProject3Scaffold.pdb
