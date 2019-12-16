@@ -10,6 +10,8 @@ using TempProject3Scaffold.Models;
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Pomelo.EntityFrameworkCore.MySql.Query;
+
 
 namespace TempProject3Scaffold
 {
